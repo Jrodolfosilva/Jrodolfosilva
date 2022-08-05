@@ -26,9 +26,9 @@
 
 - 📂 Expandir meu portfólio
 
-- 🤝 Contribuir em projetos open-source e de amigos
+- 🤝 Contribuir em projetos open-source
 
-- 📈 Conseguir uma oportunidade como Dev jr
+- 📈 Conseguir uma oportunidade como Desenvolvedor Front End jr
 
 ### ⚡ Tecnologias:
 
