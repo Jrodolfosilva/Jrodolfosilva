@@ -16,7 +16,7 @@
   </em>
 </p>
 
-- 🌱 Atualmente estou revisitando as stacks de front end e me aprofundando em React - Typescript.
+- 🌱 Atualmente estou revisitando as stacks de front end e me aprofundando em React - Typescript - Nextjs.
 - 🚀 Estudante da Oracle One :  Trilha de 420hrs desenvolvimento FullStack.
 - 🚀 Sou desenvolvedor VTEX certificado: Credential ID 62e8e837ca02c.
 - 🚀 Certificado Full Stack: Gama Academy.
