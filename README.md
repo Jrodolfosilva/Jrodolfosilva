@@ -24,9 +24,9 @@
 
 ### 📊 Metas 2022:
 
-- 📂 Expandir meu portfólio
+- 📂 Aprimograr meus conhecimentos em Front-End
 
-- 🤝 Contribuir em projetos open-source
+- 📂 Estudar Next.js e Node.js
 
 - 📈 Conseguir uma oportunidade como Desenvolvedor Front End jr
 
