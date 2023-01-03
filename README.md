@@ -12,7 +12,7 @@
 
 <p>
   <em>
-    Tenho 26 anos, sou de Recife e estou em transição de carreira. 
+    Tenho 26 anos, sou de Recife e trabalho como dev freelancer. 
   </em>
 </p>
 
@@ -22,13 +22,11 @@
 - 🚀 Certificado Full Stack: Gama Academy.
 - 📫 Meu email: rodolfo_s@outlook.com.br
 
-### 📊 Metas 2022:
+### 📊 Metas 2023:
 
 - 📂 Aprimograr meus conhecimentos em Front-End
 
 - 📂 Estudar Next.js e Node.js
-
-- 📈 Conseguir uma oportunidade como Desenvolvedor Front End jr
 
 ### ⚡ Tecnologias:
 
