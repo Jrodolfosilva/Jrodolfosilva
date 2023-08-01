@@ -12,7 +12,7 @@
 
 <p>
   <em>
-    Tenho 26 anos, sou de Recife e trabalho como dev freelancer. 
+    Tenho 27 anos, sou de Recife e trabalho como dev freelancer. 
   </em>
 </p>
 
