@@ -8,7 +8,7 @@
   Desenvolvedor Front-End && VTEX io
 </p>
 
-### 🌻 Sobre mim:
+### Sobre mim:
 
 <p>
   <em>
