@@ -5,28 +5,28 @@
 </h1>
 
 <p align='center'>
-  Desenvolvedor Front-End && VTEX io
+  Desenvolvedor Front-End React/Next
 </p>
 
 ### Sobre mim:
 
 <p>
   <em>
-    Tenho 27 anos, sou de Recife e trabalho como dev freelancer. 
+    Tenho 28 anos, sou de Recife e trabalho como dev freelancer. 
   </em>
 </p>
 
 - 🌱 Atualmente estou revisitando as stacks de front end e me aprofundando em React - Typescript - Nextjs.
-- 🚀 Estudante da Oracle One :  Trilha de 420hrs desenvolvimento FullStack.
-- 🚀 Sou desenvolvedor VTEX certificado: Credential ID 62e8e837ca02c.
-- 🚀 Certificado Full Stack: Gama Academy.
-- 📫 Meu email: rodolfo_s@outlook.com.br
+- 🚀 Certificado - Oracle One :  Trilha de desenvolvimento FullStack.
+- 🚀 Certificado VTEXio: Credential ID 62e8e837ca02c.
+- 🚀 Certificado FullStack: Gama Academy.
+- 📫 Meu email: rodolfo_ds@outlook.com.br
 
-### 📊 Metas 2023:
+### 📊 Metas 2024:
 
 - 📂 Aprimograr meus conhecimentos em Front-End
 
-- 📂 Estudar Next.js e Node.js
+- 📂 Estudar Node.js
 
 ### ⚡ Tecnologias:
 
