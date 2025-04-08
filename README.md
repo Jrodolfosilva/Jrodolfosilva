@@ -1,18 +1,18 @@
 <h1 align='center'>
   Olá, sou o Rodolfo Silva!
   <br/>
-  Bem vindo a minha página :)
+  Bem vindo!
 </h1>
 
 <p align='center'>
-  Desenvolvedor Front-End React/Next
+  Desenvolvedor Front End
 </p>
 
 ### Sobre mim:
 
 <p>
   <em>
-    Tenho 29 anos, sou de Recife e trabalho como dev freelancer. 
+    Sou de Recife e trabalho como dev fullstack freelancer. 
   </em>
 </p>
 
@@ -22,11 +22,11 @@
 - 🚀 Certificado FullStack: Gama Academy.
 - 📫 Meu email: rodolfo_ds@outlook.com.br
 
-### 📊 Metas 2024:
+### 📊 2025:
 
-- 📂 Aprimograr meus conhecimentos em Front-End
+- 📂 Estudando Django 
 
-- 📂 Estudar Node.js
+- 📂 Estudando GOlang
 
 ### ⚡ Tecnologias:
 
